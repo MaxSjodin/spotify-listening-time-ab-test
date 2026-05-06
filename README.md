@@ -1,5 +1,9 @@
 # A/B Test: Hypothetical Product Change to Increase Listening Engagement
 
+**Presentation:**  
+
+[View the A/B test presentation](https://maxsjodin.github.io/spotify-listening-time-ab-test/)
+
 This project simulates an A/B test evaluating a hypothetical product change aimed at increasing user listening time.
 
 The goal is to assess whether the treatment leads to a meaningful improvement in listening time while ensuring no negative impact on key guardrail metrics such as churn and skip rate.
@@ -13,6 +17,10 @@ Evaluate whether a product change increases user listening engagement, measured 
 ---
 
 ## Dataset Overview
+
+The dataset used in this project is sourced form Kaggle: 
+
+- [Spotify Analysis Dataset 2025](https://www.kaggle.com/datasets/nabihazahid/spotify-dataset-for-churn-analysis?resource=download)
 
 - User-level dataset (8000 users)
 - Includes behavioral, demographic, and engagement features
